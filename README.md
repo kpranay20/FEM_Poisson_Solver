@@ -10,8 +10,6 @@ The same mathematical problem is solved across multiple programming languages an
 - study performance scaling,
 - and understand the practical challenges of MPI and GPU-enabled solvers.
 
-The focus of this project is **methodology and performance analysis**, not algorithmic novelty.
-
 
 
 ## Problem Description
