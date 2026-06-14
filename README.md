@@ -97,3 +97,8 @@ poisson-fem/
     ├── requirements.txt
     ├── cuda_info.txt
     └── petsc_config.txt
+```
+
+## Acknowledgments
+
+This README was created with the help of ChatGPT. All technical content, implementation details and project decisions remain my own.
